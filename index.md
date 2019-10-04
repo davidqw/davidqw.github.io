@@ -3,12 +3,12 @@
 
 ### Crypto
 
-Bitcoin / Ethereum / Decentralized Apps
+Bitcoin | Ethereum | Dapps
 
 
 ### Art
 
-Modern Arts
+Modern Arts in cyber space
 
 
 ### Music
@@ -18,4 +18,4 @@ Avantgrade Music
 
 ### Contact us
 
-[@Wh9it](https://twitter.com/wh9it)
+[@Wh9it](https://twitter.com/BlockExpl0it)
