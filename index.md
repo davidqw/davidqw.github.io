@@ -1,25 +1,19 @@
 ## 👁️Welcome to Crypto Cruise Project👁️
 
 
-### Markdown
+### Crypto
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Bitcoin / Ethereum / Decentralized Apps
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Art
 
-1. Numbered
-2. List
+Modern Arts
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+### Music
+
+Avantgrade Music
 ```
 
