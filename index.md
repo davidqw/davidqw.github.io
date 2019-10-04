@@ -6,7 +6,6 @@
 Bitcoin / Ethereum / Decentralized Apps
 
 
-
 ### Art
 
 Modern Arts
@@ -15,5 +14,8 @@ Modern Arts
 ### Music
 
 Avantgrade Music
-```
 
+
+### Contact us
+
+[@Wh9it](https://twitter.com/wh9it)
